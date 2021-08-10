@@ -1,0 +1,70 @@
+h1{
+    text-align: center;
+    font-style: oblique;
+     color:gold;
+}
+h2{ color:gold;
+    text-align: center;
+    font-style: oblique;
+    
+}
+h3{ color:gold;
+    font-size:larger;
+}
+.sab{ color:rgb(93, 174, 228);
+    font-size: 17px;
+    border: 3px solid gold;
+    margin-top: 30px;
+   margin-bottom: 30px;
+   line-height: 100%;
+  
+     
+ }
+ .img{ 
+     border: 3px soid  gold;
+    margin-right: 100px;
+    margin-top: -115px;
+  margin-right: -1%;
+     width: 7.3%;
+     float: right;
+   
+}
+.image2{
+    border: 3px soid  gold;
+    height: 151px; width: 100px;
+    margin-right: 100px;
+    margin-top: -82px;
+  margin-right: -1%;
+     width: 7.3%;
+     float: right;
+   
+}
+h4{
+    color:gold;
+    font-size: larger;}
+   .sas{ 
+    color:rgb(82, 231, 182);
+    font-size: 17px;
+    border: 3px solid gold;
+   margin-bottom: 10px;
+   
+   line-height: 100%;}
+  h5{
+    color:gold;
+      font-size: larger;
+  }
+   .rar{
+    color:rgb(226, 82, 82);
+    font-size: 17px;
+    border: 3px solid gold;
+   margin-top: 40px;
+   line-height: 100%;
+  }
+  .image1{
+    margin-right: 100px;
+    margin-top: -85px;
+  margin-right: -1%;
+     width: 7.3%;
+     float: right;
+   
+  }
